@@ -49,5 +49,5 @@ Tabela:
 <to_s/>
 
 2. **skrypty/agregacja2.rb**
-Skrypt tworzy diagram porównujący skalę w jakiej poszczególne rodzaje sił zbrojnych brały udział w operacjach bombowych.
-
+Skrypt tworzy diagram porównujący skalę w jakiej poszczególne rodzaje sił zbrojnych brały udział w operacjach bombowych.\
+Utworzony [Diagram](https://github.com/BoskiOski/nosql-zaliczenie/blob/master/test.pdf).
