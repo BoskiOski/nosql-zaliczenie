@@ -1,0 +1,1 @@
+.\mongoimport --host Rep,localhost:27017,localhost:27027,localhost:27037 -c thor --type csv --headerline --file THOR2.csv 
